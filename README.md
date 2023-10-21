@@ -28,7 +28,7 @@ Wex API is an application designed for financial transaction management, allowin
 
 ## Setup Instructions
 
-1. Clone this repository.
+1. Clone this repository: `git clone https://github.com/jerrymagal/wex-api.git`
 2. Install the dependencies using Maven: `mvn install`.
 3. Start the application using `mvn spring-boot:run`.
 4. Visit Swagger UI at `http://localhost:8080/swagger-ui/index.html` to view and test the endpoints.
